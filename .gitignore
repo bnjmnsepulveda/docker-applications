@@ -1,0 +1,3 @@
+docker-compose/airflow/dags
+docker-compose/airflow/logs
+docker-compose/airflow/plugins
